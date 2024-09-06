@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "09 July 2002" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 951-235-4980" },
+    { "address": "Tinangnan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "Bachelor of Science in Game Development" },
+    { "email": "<a href='mailto:someone@example.com'>angelorayascellan9@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Tinangnan, Tubigon, Bohol, Philippines",
+    "+63 951-235-4980",
+    "<a href='mailto:someone@example.com'>angelorayascellan9@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "Bachelor of Science in Game Development",
+      "year": "2019 - 2024",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2019",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2013",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    }
+  ]
+}
